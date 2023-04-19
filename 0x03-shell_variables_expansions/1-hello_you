@@ -1,3 +1,2 @@
 #!/bin/bash
-[Expected]
-hello MyUser
+echo "hello $USER"
